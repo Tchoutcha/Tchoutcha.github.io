@@ -2,7 +2,7 @@
 page_id: repositories
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: My open-source work on GitHub.
 nav: true
 nav_order: 3

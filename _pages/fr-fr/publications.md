@@ -2,7 +2,7 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications par ordre chronologique inverse.
 nav: false # mettre à true quand des papiers sont ajoutés
 nav_order: 5

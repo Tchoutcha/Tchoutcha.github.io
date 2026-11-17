@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: projets
+title: Projets
 permalink: /projects/
 description: Projets de recherche et d’ingénierie.
 nav: true

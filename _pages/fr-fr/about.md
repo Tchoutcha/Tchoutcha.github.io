@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: à propos
+title: À propos
 permalink: /
 subtitle: Doctorante · <a href='https://team.inria.fr/wide/'>équipe WIDE</a>, Inria / IRISA · Université de Rennes
 

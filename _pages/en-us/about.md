@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD student · <a href='https://team.inria.fr/wide/'>WIDE team</a>, Inria / IRISA · University of Rennes
 

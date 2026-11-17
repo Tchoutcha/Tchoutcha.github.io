@@ -7,7 +7,7 @@ first_name: Stella
 middle_name:
 last_name: Tchoutcha
 keywords: serverless, FaaS, Kubernetes, Knative, K3s, edge computing, IoT, energy efficiency, Raspberry Pi, platform engineering # add your own keywords or leave empty
-icon: ⚡ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.svg # file in assets/img/
 
 url: https://tchoutcha.github.io # the base hostname & protocol for your site
 baseurl: # leave blank # the subpath of your site, e.g. /blog/. Leave blank for root

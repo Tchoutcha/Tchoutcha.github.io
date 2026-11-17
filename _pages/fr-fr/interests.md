@@ -2,17 +2,11 @@
 page_id: interests
 layout: page
 permalink: /interests/
-title: passions
+title: Centres d'intérêt
 description: Les sujets que j'aime lire, tester et apprendre.
 nav: true
 nav_order: 10
 ---
-
-<div class="row justify-content-center mb-4">
-  <div class="col-md-8">
-    {% include figure.liquid loading="eager" path="assets/img/interests.jpg" class="img-fluid rounded z-depth-1" alt="Stella with her Raspberry Pi cluster" %}
-  </div>
-</div>
 
 ### Kubernetes
 
