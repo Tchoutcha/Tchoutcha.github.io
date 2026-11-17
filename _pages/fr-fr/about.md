@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-Je suis doctorante en informatique dans l'[équipe WIDE](https://team.inria.fr/wide/) à Inria / IRISA, Université de Rennes, sous la direction de [Nikos Parlavantzas](https://people.irisa.fr/Nikolaos.Parlavantzas/) et [Djob Mvondo](https://djobiii2078.github.io/).
+Je suis doctorante en informatique dans l'[équipe WIDE](https://team.inria.fr/wide/) à Inria / IRISA, Université de Rennes, sous la direction de [Nikos Parlavantzas](https://scholar.google.com/citations?user=64jyxvoAAAAJ) et [Djob Mvondo](https://djobiii2078.github.io/).
 Ma thèse porte sur **l'efficacité énergétique du serverless (Function-as-a-Service)** sur des équipements edge et IoT à faible consommation.
 Je mène mes expériences sur un **cluster de 15 Raspberry Pi 5** sous K3s et Knative.
 
