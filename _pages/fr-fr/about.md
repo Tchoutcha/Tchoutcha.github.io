@@ -7,7 +7,7 @@ subtitle: Doctorante · <a href='https://team.inria.fr/wide/'>équipe WIDE</a>, 
 
 profile:
   align: right
-  # image: prof_pic.jpg # add your photo as assets/img/prof_pic.jpg, then uncomment
+  image: prof_pic.jpg
   image_circular: true
   more_info: >
     <p>Rennes, France</p>
