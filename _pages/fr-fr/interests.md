@@ -5,7 +5,7 @@ permalink: /interests/
 title: passions
 description: Les sujets que j'aime lire, tester et apprendre.
 nav: true
-nav_order: 1
+nav_order: 10
 ---
 
 <div class="row justify-content-center mb-4">
