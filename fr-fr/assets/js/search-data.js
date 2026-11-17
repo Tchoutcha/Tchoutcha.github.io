@@ -41,13 +41,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fr-fr/cv/";
           },
-        },{id: "nav-centres-d-39-intérêt",
-          title: "Centres d&#39;intérêt",
-          description: "Les sujets que j&#39;aime lire, tester et apprendre.",
-          section: "menu de navigation",
-          handler: () => {
-            window.location.href = "/fr-fr/interests/";
-          },
         },{id: "news-ouverture-de-l-issue-2743-sur-cncf-kepler-pour-ajouter-une-source-d-énergie-raspberry-pi-5-basée-sur-son-pmic",
           title: 'Ouverture de l’issue #2743 sur CNCF Kepler pour ajouter une source d’énergie Raspberry...',
           description: "",
