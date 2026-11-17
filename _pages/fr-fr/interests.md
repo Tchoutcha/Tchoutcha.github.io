@@ -8,6 +8,12 @@ nav: true
 nav_order: 1
 ---
 
+<div class="row justify-content-center mb-4">
+  <div class="col-md-8">
+    {% include figure.liquid loading="eager" path="assets/img/interests.jpg" class="img-fluid rounded z-depth-1" alt="Stella with her Raspberry Pi cluster" %}
+  </div>
+</div>
+
 ### Kubernetes
 
 Ce qui me plaît dans Kubernetes, c'est son modèle déclaratif : on décrit l'état voulu, et des contrôleurs travaillent sans arrêt pour que le cluster y ressemble.

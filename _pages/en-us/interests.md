@@ -8,6 +8,12 @@ nav: true
 nav_order: 1
 ---
 
+<div class="row justify-content-center mb-4">
+  <div class="col-md-8">
+    {% include figure.liquid loading="eager" path="assets/img/interests.jpg" class="img-fluid rounded z-depth-1" alt="Stella with her Raspberry Pi cluster" %}
+  </div>
+</div>
+
 ### Kubernetes
 
 What I love about Kubernetes is its declarative model: you describe the state you want, and controllers keep working until the cluster matches it.
