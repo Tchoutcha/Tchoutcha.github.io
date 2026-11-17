@@ -1,0 +1,44 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Stella Tchoutcha
+    - name: Location
+      value: Rennes, France
+    - name: Languages
+      value: French, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science (ongoing)
+      institution: University of Rennes – Inria / IRISA, WIDE team, Rennes, France
+      year: TODO – present
+      description:
+        - Energy-efficient serverless computing (FaaS) for low-power edge and IoT deployments.
+    # - title: TODO Master's degree
+    #   institution: TODO
+    #   year: TODO
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: pi-thermal-operator
+      institution: Open source – github.com/Tchoutcha/pi-thermal-operator
+      year: 2026
+      description:
+        - Kubernetes operator in Go (kubebuilder) that taints overheating Raspberry Pi 5 nodes, with a CRD, Prometheus metrics, leader election and CI.
+    - title: Contribution to CNCF Kepler
+      institution: Open source – sustainable-computing-io/kepler
+      year: 2026
+      description:
+        - Proposed and offered to implement a PMIC-based power source for Raspberry Pi 5 (issue #2743).
+
+- title: Technical Skills
+  type: list
+  contents:
+    - "<b>Cloud native:</b> Kubernetes, K3s, Knative, Kourier/Envoy, operators (kubebuilder)"
+    - "<b>Observability:</b> Prometheus metrics, Kubernetes events"
+    - "<b>Systems:</b> Linux, ARM (Raspberry Pi), perf, energy measurement"
+    - "<b>Languages:</b> Go, Python, C, Bash"
+    - "<b>Tools:</b> Git, GitHub Actions, Docker, LaTeX, Matplotlib"
