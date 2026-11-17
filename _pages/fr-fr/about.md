@@ -5,12 +5,6 @@ title: À propos
 permalink: /
 subtitle: Doctorante · <a href='https://team.inria.fr/wide/'>équipe WIDE</a>, Inria / IRISA · Université de Rennes
 
-profile:
-  align: right
-  image_circular: true
-  more_info: >
-    <p>Rennes, France</p>
-
 selected_papers: false
 social: true
 

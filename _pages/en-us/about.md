@@ -5,12 +5,6 @@ title: About
 permalink: /
 subtitle: PhD student · <a href='https://team.inria.fr/wide/'>WIDE team</a>, Inria / IRISA · University of Rennes
 
-profile:
-  align: right
-  image_circular: true
-  more_info: >
-    <p>Rennes, France</p>
-
 selected_papers: false
 social: true
 
