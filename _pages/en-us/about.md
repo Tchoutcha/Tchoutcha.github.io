@@ -23,9 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-### Hello, I'm Stella!
-
-I am a PhD student in computer science in the [WIDE team](https://team.inria.fr/wide/) at Inria / IRISA, University of Rennes (France).
+I am a PhD student in computer science in the [WIDE team](https://team.inria.fr/wide/) at Inria / IRISA, University of Rennes (France), under the supervision of [Dr. Nikos Parlavantzas](https://people.irisa.fr/Nikolaos.Parlavantzas/) and [Dr. Djob Mvondo](https://djobiii2078.github.io/).
 My thesis is about making **serverless computing (Function-as-a-Service) energy-efficient** on low-power edge and IoT devices.
 I run my experiments on a **15-node Raspberry Pi 5 cluster** with K3s and Knative.
 

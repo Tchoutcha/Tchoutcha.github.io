@@ -23,9 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-### Bonjour, je suis Stella !
-
-Je suis doctorante en informatique dans l'[équipe WIDE](https://team.inria.fr/wide/) à Inria / IRISA, Université de Rennes.
+Je suis doctorante en informatique dans l'[équipe WIDE](https://team.inria.fr/wide/) à Inria / IRISA, Université de Rennes, sous la direction de [Nikos Parlavantzas](https://people.irisa.fr/Nikolaos.Parlavantzas/) et [Djob Mvondo](https://djobiii2078.github.io/).
 Ma thèse porte sur **l'efficacité énergétique du serverless (Function-as-a-Service)** sur des équipements edge et IoT à faible consommation.
 Je mène mes expériences sur un **cluster de 15 Raspberry Pi 5** sous K3s et Knative.
 
