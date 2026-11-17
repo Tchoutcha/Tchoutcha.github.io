@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/fr-fr/";
     },
-  },{id: "nav-projets",
+  },{id: "nav-passions",
+          title: "passions",
+          description: "Les sujets que j&#39;aime lire, tester et apprendre.",
+          section: "menu de navigation",
+          handler: () => {
+            window.location.href = "/fr-fr/interests/";
+          },
+        },{id: "nav-projets",
           title: "projets",
           description: "Projets de recherche et d’ingénierie.",
           section: "menu de navigation",
