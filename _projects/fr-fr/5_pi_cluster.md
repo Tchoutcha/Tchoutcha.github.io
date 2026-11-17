@@ -4,8 +4,15 @@ layout: page
 title: Cluster edge de 15 Raspberry Pi 5
 description: Le banc K3s/Knative que j'ai monté et que j'exploite pour ma recherche, avec mesure d'énergie.
 importance: 3
+img: assets/img/cluster.jpg
 category: engineering
 ---
+
+<div class="row justify-content-center mb-4">
+  <div class="col-md-10">
+    {% include figure.liquid loading="eager" path="assets/img/cluster.jpg" class="img-fluid rounded z-depth-1" alt="15-node Raspberry Pi 5 cluster" %}
+  </div>
+</div>
 
 J'ai monté et j'exploite le cluster edge utilisé pour toutes mes expériences :
 
