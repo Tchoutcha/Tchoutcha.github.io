@@ -15,34 +15,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Research and engineering projects.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "My open-source work on GitHub.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-resume",
+          title: "Resume",
           description: "Download the PDF version with the button on the right.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-interests",
-          title: "interests",
+          title: "Interests",
           description: "The topics I love reading about, playing with and learning.",
           section: "Navigation menu",
           handler: () => {

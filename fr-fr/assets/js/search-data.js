@@ -15,34 +15,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-à-propos",
-    title: "à propos",
+    title: "À propos",
     section: "menu de navigation",
     handler: () => {
       window.location.href = "/fr-fr/";
     },
   },{id: "nav-projets",
-          title: "projets",
+          title: "Projets",
           description: "Projets de recherche et d’ingénierie.",
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr-fr/projects/";
           },
         },{id: "nav-dépôts",
-          title: "dépôts",
+          title: "Dépôts",
           description: "Mes travaux open source sur GitHub.",
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr-fr/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Version PDF téléchargeable avec le bouton à droite.",
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr-fr/cv/";
           },
-        },{id: "nav-passions",
-          title: "passions",
+        },{id: "nav-centres-d-39-intérêt",
+          title: "Centres d&#39;intérêt",
           description: "Les sujets que j&#39;aime lire, tester et apprendre.",
           section: "menu de navigation",
           handler: () => {
