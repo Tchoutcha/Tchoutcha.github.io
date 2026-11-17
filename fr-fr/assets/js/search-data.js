@@ -20,14 +20,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/fr-fr/";
     },
-  },{id: "nav-passions",
-          title: "passions",
-          description: "Les sujets que j&#39;aime lire, tester et apprendre.",
-          section: "menu de navigation",
-          handler: () => {
-            window.location.href = "/fr-fr/interests/";
-          },
-        },{id: "nav-projets",
+  },{id: "nav-projets",
           title: "projets",
           description: "Projets de recherche et d’ingénierie.",
           section: "menu de navigation",
@@ -47,6 +40,13 @@ ninja.data = [{
           section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr-fr/cv/";
+          },
+        },{id: "nav-passions",
+          title: "passions",
+          description: "Les sujets que j&#39;aime lire, tester et apprendre.",
+          section: "menu de navigation",
+          handler: () => {
+            window.location.href = "/fr-fr/interests/";
           },
         },{id: "news-ouverture-de-l-issue-2743-sur-cncf-kepler-pour-ajouter-une-source-d-énergie-raspberry-pi-5-basée-sur-son-pmic",
           title: 'Ouverture de l’issue #2743 sur CNCF Kepler pour ajouter une source d’énergie Raspberry...',

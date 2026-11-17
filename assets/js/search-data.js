@@ -20,14 +20,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-interests",
-          title: "interests",
-          description: "The topics I love reading about, playing with and learning.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/interests/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "Research and engineering projects.",
           section: "Navigation menu",
@@ -47,6 +40,13 @@ ninja.data = [{
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-interests",
+          title: "interests",
+          description: "The topics I love reading about, playing with and learning.",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/interests/";
           },
         },{id: "news-opened-issue-2743-on-cncf-kepler-to-add-a-raspberry-pi-5-power-source-based-on-its-pmic",
           title: 'Opened issue #2743 on CNCF Kepler to add a Raspberry Pi 5 power...',
